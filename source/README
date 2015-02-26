@@ -1,0 +1,24 @@
+# Buck-hacks
+
+Developer environment setup
+---------------------------
+
+Make sure Ruby 2 or 3 is installed.
+
+### Linux
+
+update gems and run `$gem install middleman`
+
+### Windows
+
+
+Running the project
+-------------------
+
+`bundle exec middleman build`
+
+Run server by
+
+`middleman s`
+
+server will run localhost:3000.
